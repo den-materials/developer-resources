@@ -1,4 +1,4 @@
-# Orientation
+# Developer Resources
 
 ## Why is this important?
 Make sure everyone knows the best places to look for information, and what they will see in these places.
@@ -10,19 +10,27 @@ Make sure everyone knows the best places to look for information, and what they 
 ## How to Google:
 
   - Include the language or library you are using
-  - Check out the search tools 'past year'
+    - For example: "javascript foreach object"
 
-  - For example: "javascript foreach object"
+  - Check out the search tools 'past year'
 
   - Google the exact error:
     - `ReferenceError: alert is not defined`
 
+  - Use quotes to make sure words appear together
+    - For example: `"alert is not defined"`
+
+  - site:address.com will restrict searches to just that site
+    - For example: `javascript .map returns undefined site:stackoverflow.com`
 
   - Look for three main kinds of solutions:
 
     1. Documentation
     2. Stack Overflow and other crowd sourced answers
     3. Blogs
+    
+  - [More search tips](http://motto.time.com/4116259/google-search/)
+  - [Even more search tips](http://www.digitaltrends.com/computing/the-35-best-google-search-tips-and-tricks/)
 
 ## Documentation
 
