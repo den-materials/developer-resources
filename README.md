@@ -115,6 +115,12 @@ Some of the companies that have fairly active engineering blogs are:
 Some engineers will also blog about a nasty bug just to make sure that they have a reference for the future. If you see
 a good description and that's the only blog post don't worry that a blog isn't updated frequently.
 
+If you are looking for solid podcasts, these come highly recommended by your Consultants:
+
+* CodeNewbie(http://www.codenewbie.org/) - This is a great podcast for all levels, and great if you’re looking for stories of people who have struggled and accomplished great things.
+* The Changelog(https://changelog.com/) -  A great podcast to keep you up-to-date on the latest trends with game-changers in the coding industry.  Recommended for people who have a little dev experience.
+* Javascript Jabber(https://devchat.tv/js-jabber) - A small group of rotating hosts bring on experts and get pretty in-depth on JS topics.  Recommended for people who have a little dev experience.
+
 ## Conclusion  
 [Comment]: # (9:30) 
 
