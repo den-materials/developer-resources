@@ -10,8 +10,6 @@ Google and finding information is often as important as the actual written code.
 ## Google Searches: 
 [Comment]: # (9:10) 
 
-Some basic information around how to work through Google is included in the [meta-skills page](https://github.com/den-wdi-1/terminal-basics-navigating-the-filesystem/blob/master/meta_skills.md) of the command line repo.
-
 My types of searches I perfom on a regular basis:
 - Documentation offload (20% - 40%)
   - What is the exact argument for a function
@@ -41,6 +39,31 @@ My Google workflow:
 6. Return to step 1 
 
 [CFU]: # (Ask for other workflows)
+
+## How to Google:
+
+  - Include the language or library you are using
+    - For example: "javascript foreach object"
+
+  - Check out the search tools 'past year'
+
+  - Google the exact error:
+    - `ReferenceError: alert is not defined`
+
+  - Use quotes to make sure words appear together
+    - For example: `"alert is not defined"`
+
+  - site:address.com will restrict searches to just that site
+    - For example: `javascript .map returns undefined site:stackoverflow.com`
+
+  - Look for three main kinds of solutions:
+
+    1. Documentation
+    2. Stack Overflow and other crowd sourced answers
+    3. Blogs
+    
+  - [More search tips](http://motto.time.com/4116259/google-search/)
+  - [Even more search tips](http://www.digitaltrends.com/computing/the-35-best-google-search-tips-and-tricks/)
 
 ## Documentation
 
