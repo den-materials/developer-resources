@@ -126,3 +126,7 @@ If you are looking for solid podcasts, these come highly recommended by your Con
 
 As a developer often you spend as much time looking for information as typing up code. Don't worry if you're spending a 
 lot of time googling as that's a normal part of being a developer and creating quality code()
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
