@@ -69,15 +69,16 @@ My Google workflow:
 
 ### Javascript
 
+Below is a list of some helpful review sources for Javascript:
+
+1. [Week 1 Second Pass](https://github.com/den-wdi-2/week1_secondPass)
+2. [Anatomy of Code - JS](http://www.anatomyofcode.com/)
+
 There are many resources that contain Javascript documentation online.  Below are the most popular:
 
 1. [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 2. [W3Schools (World Wide Web Schools)](http://www.w3schools.com/js/default.asp)
 
-### Ruby
-
-1. [Rails Guides](http://guides.rubyonrails.org/)
-2. [Ruby Doc](http://ruby-doc.org/core-2.3.1/)
 
 ## Stack Overflow
 [Comment]: # (9:20) 
