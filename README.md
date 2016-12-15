@@ -67,11 +67,19 @@ My Google workflow:
 
 ## Documentation
 
+### Common Errors
+
+There are some errors you will see a lot.  So often in fact that we can internalize what they generally mean to humans.
+
+Here is [a list](https://github.com/den-wdi-2/developer-resources/blob/master/common_errors.md) of those common errors for web developers.
+
 ### Javascript
 
 Below is a list of some helpful review sources for Javascript:
 
 1. [Week 1 Second Pass](https://github.com/den-wdi-2/week1_secondPass)
+2. [Unit 2 Week 1 Second Pass](https://github.com/den-wdi-2/unit2_week1_secondpass)
+3. [Unit 2 Week 2 Second Pass](https://github.com/den-wdi-2/unit2_week2_secondpass)
 2. [Anatomy of Code - JS](http://www.anatomyofcode.com/)
 
 There are many resources that contain Javascript documentation online.  Below are the most popular:
