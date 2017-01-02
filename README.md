@@ -81,6 +81,7 @@ Below is a list of some helpful review sources for Javascript:
 2. [Unit 2 Week 1 Second Pass](https://github.com/den-wdi-2/unit2_week1_secondpass)
 3. [Unit 2 Week 2 Second Pass](https://github.com/den-wdi-2/unit2_week2_secondpass)
 2. [Anatomy of Code - JS](http://www.anatomyofcode.com/)
+5. [Unit 3 Week 1 Second Pass](https://github.com/den-wdi-2/unit3_week1_secondpass)
 
 There are many resources that contain Javascript documentation online.  Below are the most popular:
 
