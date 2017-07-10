@@ -113,6 +113,10 @@ If you get taken to Github issue or wiki page this is often either a very good s
 sign. It's a good sign if there some discussion and a resolved then you may just need to update the library. If there's 
 just a description of your bug, good chance for you to maybe earn some open source points.
 
+## "Cheat Sheets"
+
+[This repo](https://github.com/den-materials/WDI-cheat-sheets) has a bunch of useful cheatsheets, generally organized chronologically as we go through class.
+
 ## Blogs and Podcasts
 [CFU]: # (Ask students for blogs)
 [Comment]: # (9:25) 
