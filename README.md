@@ -9,10 +9,15 @@ Google and finding information is often as important as the actual written code.
 
 ## Visuals:
 <details><summary>They're Big! Click to expand</summary>
+
   ![The Stack](img/TheStack.png)
+
   ![MVC](img/MVC.png)
+
   ![Routing](img/Routing.png)
+
   ![Mongo](img/Mongo.png)
+  
 </details>
 
 ## Google Searches: 
