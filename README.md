@@ -17,6 +17,8 @@ Google and finding information is often as important as the actual written code.
   ![Routing](img/Routing.png)
 
   ![Mongo](img/Mongo.png)
+
+  ![Full Stack Mural](img/fullStack.jpg)
   
 </details>
 
