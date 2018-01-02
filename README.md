@@ -20,6 +20,10 @@ Google and finding information is often as important as the actual written code.
 
   ![Full Stack Mural](img/fullStack.jpg)
   
+  ![Full Stack Mural Pt 1](img/newFullStack1.jpg)
+
+  ![Full Stack Mural Pt 2](img/newFullStack2.jpg)
+
 </details>
 
 ## Google Searches: 
